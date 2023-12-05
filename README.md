@@ -1,5 +1,4 @@
 # Healthcare_Chatbot_AI
-# Healthcare chatbot Using machine learning and natural language prcessing
 
 Healthcare is very important to lead a good life. However, it is very difficult to obtain a
 consultation with a doctor for every health problem. The idea is to create a medical chatbot
@@ -13,13 +12,13 @@ accessibility to medical knowledge through medical chatbots
 Clone the project
 
 ```bash
-  git clone https://github.com/robinsingh051/Healthcare-chatbot
+  git clone https://github.com/Tarika-2103/Healthcare_Chatbot_AI.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Healthcare-chatbot
+  cd Healthcare_Chatbot_AI
 ```
 
 Install dependencies
